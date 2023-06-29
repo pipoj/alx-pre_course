@@ -1,2 +1,2 @@
 
-Do hard thing
+My first README updated
